@@ -1,2 +1,2 @@
 # Prac-modal
-modal창 띄우기
+모달(modal) 만들기
