@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>모달 만들기</title>
+<title>모달 구현하기</title>
 </head>
 <link rel="stylesheet" href="css.css" />
 <body>
@@ -15,7 +15,7 @@
 			<div class="modal">
     					 <div class="modal_container">
     					 	<div class="modal_header">
-      							<h2>모달 만들기</h2>
+      							<h2>모달 구현하기</h2>
       						</div>
       						<div class="modal_body">
       							내용이 들어가는 자리입니다
